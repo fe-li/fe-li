@@ -1,10 +1,11 @@
+# About Me:
 - 👋 Hi, I’m Kamil (@fe-li)
 - 👀 I’m interested in C#, Python, websites technologies
 - 🌱 I’m currently learning C++ Blas
 - 💞️ I’m looking to collaborate on everythings interesting
 - 📫 How to reach me send me priv or e-mail
 
-GitHub Stats:
+# GitHub Stats:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fe-li&show_icons=true&theme=radical)
 
