@@ -24,7 +24,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fe-li&theme=dark&hide_border=false)<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fe-li&theme=dark&layout=compact&langs_count=10)](https://github.com/fe-li/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fe-li&theme=dark&layout=compact&langs_count=10)
 
 
 <!---
