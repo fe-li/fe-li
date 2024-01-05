@@ -1,5 +1,5 @@
 # About Me:
-- 👋 Hi, I’m Kamil (@fe-li) exMSP at Microsoft
+- 👋 Hi, I’m Kamil (@fe-li) exMSP/WST at Microsoft
 - 👀 I’m interested in C#, Python, websites technologies
 - 🌱 I’m currently learning C++ Blas
 - 💞️ I’m looking to collaborate on everythings interesting
