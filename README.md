@@ -26,6 +26,8 @@
 
 ![Top Langs](https://github-stats-drab-seven.vercel.app/api/top-langs/?username=fe-li&theme=dark&layout=compact&langs_count=100)
 
+#  GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=fe-lix&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <!---
 fe-li/fe-li is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
